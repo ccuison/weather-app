@@ -1,0 +1,69 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  h1 {
+    font-weight: 800;
+    font-size: 80px;
+    margin-bottom: 20;
+    top: 40px;
+    color: black;
+  }
+  
+  h2 {
+    font-weight: 700;
+  
+    top: 60px;
+  }
+  
+  h3 {
+    font-weight: 600;
+    padding-top: 20px;
+  }
+  
+  p {
+    line-height: normal;
+    margin-bottom: 0;
+    text-transform: capitalize;
+  }
+  
+  .card-title {
+    font-weight: 900;
+  }
+  
+  .card-text {
+    color: #70757a;
+    font-weight: bold;
+  }
+  
+  .container {
+    margin-top: 20px;
+    max-width: 720px;
+    max-height: 1000px;
+    margin: 20px auto;
+    border: 3px solid #70757a;
+    border-radius: 10px;
+  }
+  
+  .card {
+    background: rgb(240, 234, 227);
+    margin: 10px;
+  }
+  
+  .search {
+    margin-bottom: 5px;
+  }
+  
+  .now {
+    margin-top: 10px;
+    font-size: 30px;
+  }
+  
+  .time {
+    font-size: 25px;
+  }
+  
+  .enter-city {
+    margin-bottom: 10px;
+  }
+  
